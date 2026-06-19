@@ -23,6 +23,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
+<br/>
+
+### 🔗 [Live Demo](https://global-ev-market-dashboard.streamlit.app/)
+
 </div>
 
 ---
@@ -110,6 +114,8 @@ global-ev-market-dashboard/
 ---
 
 ## ▶️ Run Locally
+
+Or try it instantly without installing anything: **[global-ev-market-dashboard.streamlit.app](https://global-ev-market-dashboard.streamlit.app/)**
 
 ```bash
 git clone https://github.com/amit-0333/global-ev-market-dashboard.git
